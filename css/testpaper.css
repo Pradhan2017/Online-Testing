@@ -1,0 +1,38 @@
+.questiondiv
+{
+ background-color:#B3B366;
+ margin:2px;
+ padding:5px;
+}
+
+.questiondiv .queno
+{
+ font-weight:bold;
+ color:yellow;
+}
+.questiondiv .question
+{
+ font-weight:bold;
+ color:white;
+ font-size:22px;
+}
+.questiondiv .option
+{
+ margin-left:20px;
+}
+.questiondiv .options
+{
+ margin-left:10px;
+ font-weight:bold;
+}
+#resulttable
+{
+ border:4px solid olive;
+ margin-top:10px;
+ width:300px;
+ border-collapse:collapse;
+}
+#resulttable th
+{
+ border-bottom:2px solid olive;
+}

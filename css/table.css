@@ -1,0 +1,27 @@
+#tablediv
+{
+overflow-x:hidden;
+overflow-y:scroll;
+height:500px;
+}
+table#questiontable 
+{
+ text-align:center;
+ border-collapse:collapse;
+ width:740px; 
+ border:1px solid black;
+}
+table#questiontable tr.odd
+{
+ background-color:#B3B366;
+}
+table#questiontable tr#headrow
+{
+ color:white;
+ background-color:olive;
+ 
+}
+table#questiontable th,table#questiontable td
+{
+ padding-right:3px;
+}
